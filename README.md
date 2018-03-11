@@ -1,2 +1,2 @@
 # Pavilion-Hackintosh
-Turning pavilion 15 into a fully functional hackintosh
+Replace basic clover config files with the given ones.
